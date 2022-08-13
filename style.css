@@ -79,3 +79,15 @@ margin-top: 20px;
   font-weight: 600;
   color: #fff;
 }
+.tab-title{
+  display: flex;
+  margin: 20px 0 40px;
+
+}
+.tab-links{
+  margin-right: 50px;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+  position: relative;
+}
